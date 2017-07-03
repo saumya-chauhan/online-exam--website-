@@ -1,0 +1,223 @@
+body
+{
+overflow-x:hidden;
+width:100%;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+background:#eee;
+min-height:550px;
+background-attachment:fixed;
+}
+.bg
+{
+min-height:540px;
+}
+.bg1
+{
+
+min-height:535px;
+}
+
+@font-face {
+   font-family: 'typo';
+    src: url('../fonts/typo.ttf');
+	}
+
+@font-face {
+   font-family: 'gothic';
+    src: url('../fonts/gothics.ttf');
+	}
+
+.panel{
+border-color:#eee;
+margin:40px;
+padding:20px;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+}
+
+.title
+{
+font-family:'typo';
+}
+
+.header
+{
+background:#a8a8a8;
+height:80px;
+}
+.tit{
+	background:#9a0022;
+	height:50px;
+
+}
+.tit1{
+	margin-top:5px;
+	width:120px;
+}
+.tit3{
+	background:#9a0022;
+	height:60px;
+}
+.tit2{
+	
+	width:150px;
+}
+
+.title1{
+font: 20px "Century Gothic", "Times Roman", sans-serif;
+}
+.title2{
+font-family: 'Ubuntu', sans-serif;
+font-size:20px;
+}
+
+
+.sub1
+{
+width:90px;
+color:#202020;
+background:#9a0022;
+font-size:20px;
+height:40px;
+margin:20px;
+padding:10px;
+width:100px;
+}
+
+
+.sub
+{
+width:50%;
+background-color:#9a0022;
+font-size:20px;
+padding:2px;
+margin-top:15px;
+margin-right:20px;
+}
+.sub:hover
+{
+color:#fff;
+}
+
+.footer
+{
+font-size:15px;
+text-align:center;
+border-top:1px solid;
+border-color:#323232;
+background-color:#202020;
+}
+.footer a
+{
+margin:25px;
+color:orange;
+text-decoration:none;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+
+}
+.footer a:hover
+{
+text-decoration:none;
+color:#9acd32;
+border-top:2px solid;
+border-color:orange;
+
+}
+
+.box
+{
+padding:9px;
+}
+hr{
+color:#000000;
+}
+.top
+{
+margin-top:20px;
+}
+.log1
+{
+font: 20px 'Ubuntu', sans-serif;
+color:#9a0022;
+margin-left:15px;
+}
+
+.log
+{
+margin:10px;
+margin-right:60px;
+margin-left:15px;
+color:#9a0022;
+text-decoration:none;
+font-size:20px;
+
+}
+.log:hover
+{
+color:white;
+border-bottom:2px solid;
+border-right:2px solid;
+border-color:white;
+text-decoration:none;
+}
+	#cro{
+		
+		 width: 600px;
+    border: 25px solid pink;
+    padding: 25px;
+    margin: 25px;
+	height:400px;
+	  font-weight: bold;
+	 word-spacing: 10px;
+	  line-height: 1.8;
+	  letter-spacing: 3px;
+	   text-indent: 50px;
+	opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+	}
+	.cat{
+	width:300px;
+    border: 10px solid pink;
+height:400px;
+margin:25px;
+ word-spacing: 10px;
+	  line-height: 1.8;	
+	}
+	#div1{
+		width: 100%;
+	}
+	
+ul {
+    list-style-type: none;
+    margin: -5px;
+    padding: 5px;
+    background-color: red;
+}
+
+li a{
+	
+	 text-transform: uppercase;
+	width:100px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  
+}
+li a:hover {
+    background-color: pink;
+}
+#do:hover{
+		
+		-moz-box-shadow: 10px 20px 40px #665544;
+-webkit-box-shadow: 10px 20px 40px #665544;
+box-shadow: 10px 20px 40px #665544;
+		cursor:hand;
+		}
+	
+	.imgz{
+	 border-radius:50%;
+	}
+	
+#pro{
+	margin-top:70px;
+}
